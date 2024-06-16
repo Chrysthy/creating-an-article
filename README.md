@@ -29,6 +29,8 @@ ChatGPT：
 |  Título  | Crie 10 headlines para nomes de artigos sobre o assunto Git e GitHub                          |
 | conteúdo | Crie um artigo sobre Git e GitHub, listando os principais comandos com exemplos nas {REGRAS}. |
 
+<br>
+
 Lexica.art：
 
 - Foi utilizado o acervo público de imagens geradas por outras pessoas.
